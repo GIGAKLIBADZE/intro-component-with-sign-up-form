@@ -25,3 +25,10 @@ body {
   flex-direction: column;
   align-items: center;
 }
+
+
+@media (min-width: 1440px) {
+  body {
+    padding: 121px 165px 121px 165px !important;
+  }
+}

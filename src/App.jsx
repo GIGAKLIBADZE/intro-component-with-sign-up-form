@@ -6,11 +6,15 @@ import Registration from "./components/Registration";
 function App() {
   return (
     <>
-      <div className="description-container">
-        <Description />
+      <div className="min-[1440px]:flex items-center gap-[45px]">
+        <div>
+          <Description />
+        </div>
+        <div>
+          <Price />
+          <Registration />
+        </div>
       </div>
-      <Price />
-      <Registration />
     </>
   );
 }
