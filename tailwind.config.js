@@ -9,6 +9,9 @@ export default {
         "background": "#ff7979",
         "price": "#5e54a4",
         "button": "#38cc8b"
+      },
+      screens: {
+        desktop: "1440px"
       }
     },
   },
