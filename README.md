@@ -20,7 +20,7 @@ Live Site URL: [https://intro-component-with-sign-up-form-six-tau.vercel.app/]
 
 ## My process
 
-I used different point of view when starting building of the project. I split off it in different components, then started to initialize each of them with respective CSS files and with using JS in it. I used mobile first workflow. For summary, I changed my mindest for with React JS for the process of building.
+I used different point of view when starting building of the project. I split off it in different components and I used Tailwind CSS for styles for the first times. I used mobile first workflow. For summary, I changed my mindest for with React JS for the process of building.
 
 ### Built with
 
